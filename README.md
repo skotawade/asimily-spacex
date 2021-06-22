@@ -50,6 +50,6 @@ Your app is ready to be deployed!
 
 ### `npm deploy`
 Application is integrated with Heroku and CI is done with development branch.\
-Here is the live URL https://xeniapp-spacex.herokuapp.com/
+Here is the live URL https://asimily-spacex.herokuapp.com/
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
